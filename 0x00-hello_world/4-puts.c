@@ -1,7 +1,8 @@
 #include<stdio.h>
 
 /**
- * main -void enables the code to run succesfully
+ * main - void enables the code to run
+ * (Description: Uses the function puts to print the line)?
  *
  * Return Always 0 (Success)
  */
