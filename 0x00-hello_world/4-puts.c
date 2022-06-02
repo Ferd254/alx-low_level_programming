@@ -1,9 +1,9 @@
 #include<stdio.h>
 
 /**
- * main - void enables the code to run
-  (*Description: Uses the function puts to print the line)?
- *
+ * main - Prints a sentence
+ (*
+ * Description:Uses the funtion put to print a line)?
  * Return Always 0 (Success)
  */
 
