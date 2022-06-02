@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void)
-
+{
 	char a;
 	int b;
 	float c;
@@ -15,3 +15,4 @@ int main(void)
 	printf("Size of an int: %zu byte(s)\n", sizeof(e));
 
 	return (0);
+}
