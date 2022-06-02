@@ -2,7 +2,7 @@
 
 /**
  * main - void enables the code to run
- * (Description: Uses the function puts to print the line)?
+  (*Description: Uses the function puts to print the line)?
  *
  * Return Always 0 (Success)
  */
