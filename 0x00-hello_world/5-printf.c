@@ -3,7 +3,7 @@
  * main - Prints a sentence
  (*
  *Description: Uses printf() to print a sentence)?
- *     Return Always (0)
+ *Return: Always 0
  */
 int main(void)
 {
