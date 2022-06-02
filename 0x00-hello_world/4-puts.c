@@ -3,8 +3,8 @@
 /**
  * main - Prints a sentence
  *
- * Description:Uses the funtion put to print a line)?
- * Return Always 0 (Success)
+ * Description: Uses the funtion put to print a line)?
+ * Return: 0 (Success)
  */
 
 int main(void)
