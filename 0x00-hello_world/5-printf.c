@@ -6,7 +6,7 @@
  *
  *    *Description: Uses printf() to print a sentence)?
  *
- *     Return: Zero
+ *     Return Always (0)
  *
  */
 
