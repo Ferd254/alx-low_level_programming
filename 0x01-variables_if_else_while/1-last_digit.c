@@ -3,11 +3,11 @@
 #include <stdio.h>
 
 /**
- * Entry point
+ *Entry point
  *
- * Description: Random number to variable
+ *Description: Random number to variable
  *
- * print: Last digit
+ *print: Last digit
  *
  * Return: 0
  */
