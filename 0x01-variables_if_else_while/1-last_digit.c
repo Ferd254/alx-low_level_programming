@@ -3,10 +3,13 @@
 #include <stdio.h>
 
 /**
+ * Entry point
  *
- * main - Entry point
- * Return: Always 0 (Success)
+ * Description: Random number to variable
  *
+ * print: Last digit
+ *
+ * Return: 0
  */
 
 int main(void)
