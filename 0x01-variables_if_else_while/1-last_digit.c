@@ -3,13 +3,13 @@
 #include <stdio.h>
 
 /**
- *Entry point
+ * main -Entry point
  *
- *Description: Random number to variable
+ * Description: Assign a random number to the variable n
  *
- *print: Last digit
+ * print: The last digit of the number stored in the variable n
  *
- * Return: 0
+ * Return: returns 0
  */
 
 int main(void)
