@@ -4,8 +4,8 @@
 
 /*
  * main - Entry point
- *
- * Description: if, if else, else
+ (
+ * Description: if, if else, else)
  *
  * Return: 0
  */
