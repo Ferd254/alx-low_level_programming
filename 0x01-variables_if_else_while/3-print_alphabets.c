@@ -15,14 +15,14 @@ int main(void)
 
 	for (m = 'a' ; m <= 'z' ; m++)
 	{
-	 	putchar (m);
+		putchar (m);
 	}
 
 	for (M = 'A' ; M <= 'Z' ; M++)
 	{
 		putchar (M);
 	}
-	
+
 	putchar ('\n');
 
 	return (0);
