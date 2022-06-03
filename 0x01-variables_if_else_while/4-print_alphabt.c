@@ -11,7 +11,7 @@ int main(void)
 {
 	char m;
 
-	for (m = 'a' ; ch <= 'z' ; m++)
+	for (m = 'a' ; m <= 'z' ; m++)
 	{
 		if (m != 'e' && m != 'q')
 		{
