@@ -5,9 +5,10 @@ int main(void)
 {
 	char b;
 
-	for (b = 'a'; b <= 'z')
+	for{
+	       	(b = 'a'; b <= 'z':c++)
 		putchar(b);
-		putchar('\n');
+		putchar('\n'); }
 
 	return (0);
 }	
