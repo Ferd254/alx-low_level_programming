@@ -16,15 +16,12 @@ int main(void)
 		putchar (i + '0');
 		if (i == 9)
 		{
-			putchar (' ');
-		} else
-		{
 			putchar (',');
 			putchar (' ');
 		}
 		i++;
 	} while (i < 10);
-	putchar('\n');
+	
 
 	return (0);
 }
