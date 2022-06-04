@@ -1,4 +1,11 @@
 #include <stdio.h>
+/**
+ * main - Entry point
+ *
+ * Description: prints alphabet in lower cases
+ *
+ * Return: 0
+ */
 
 
 int main(void)
