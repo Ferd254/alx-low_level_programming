@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
+/**
  * main - Entry point
- (
- * Description: if, if else, else)
+ *
+ * Description: Random numbers to variable n
  *
  * Return: 0
  */
