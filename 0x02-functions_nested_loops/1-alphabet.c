@@ -2,6 +2,8 @@
 #include "main.h"
 
 /**
+ * main - Entry point
+ * 
  * print_alphabet - print alphabets in lower case
  *
  * Description: prints the alphabets in lowercase
