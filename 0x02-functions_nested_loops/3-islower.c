@@ -6,7 +6,9 @@
  *
  * Description: checks for lowercase character
  *
- * Returns 1
+ * @c: parameter of type int called c
+ *
+ * Return: returns 1 if lowercase and 0 if uppercase
  */
 
 int _islower(int c)
