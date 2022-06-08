@@ -9,7 +9,7 @@
  * @c: parameter of type int called c
  *
  * Return: returns 1 if lowercase and 0 if uppercase
- */i
+ */
 
 int _islower(int c)
 {
