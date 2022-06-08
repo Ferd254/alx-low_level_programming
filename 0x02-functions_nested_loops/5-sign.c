@@ -1,4 +1,4 @@
-#inlcude "main.h"
+#include "main.h"
 
 /**
  *  print_sign  - prints the sign of a number
@@ -14,15 +14,13 @@
  */
 int print_sign(int n)
 {
-	char result = 0
+	char result = 0;
 
 		if (n > 0)
 		{
 			result = 1;
 			putchar('+');
-		}
-
-		else if (n < 0)
+		} else if (n < 0)
 		{
 			result = -1;
 			putchar('-');
