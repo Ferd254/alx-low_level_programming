@@ -9,16 +9,16 @@
  * @c: parameter of type int called c
  *
  * Return: returns 1 if lowercase and 0 if uppercase
- */
+ */i
 
 int _islower(int c)
 {
-	char m;
+	char ch;
 	int result = 0;
 
-	for (m = 'a' ; m <= 'z'; c++)
+	for (ch = 'a' ; ch <= 'z' ; ch++)
 	{
-		if (m == c)
+		if (ch == c)
 			result = 1;
 	}
 	return (result);
